@@ -5,3 +5,5 @@ Each student must make two commits to the project.
 You may do this through the web interface or through software on your computer
 which helps you access GitHub.
 You may use a regular text file (.txt) or an R file (.R) or Python code (.py)
+
+I am updating the readme!!
